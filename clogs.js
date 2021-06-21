@@ -1,7 +1,7 @@
 {
 	"packages": [
 		{	
-			"version": "11",
+			"version": "16",
 			"package": "com.whatsapp",
 			"status": "mod_tips",
 			"title": "XWhatsApp",
