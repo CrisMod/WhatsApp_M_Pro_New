@@ -6,28 +6,28 @@
 			"status": "update_title",
 			"title": "WhatsApp M Pro",
 			"note": "false",
-			"msgtxt": "http://webs.redirectme.net/mod/prueba.html",
+			"msgtxt": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html",
 			"download": "https://github.com/WhatsaMods/TheFiles/raw/master/x/x2.21.11.11.apk",
 			"update": [
 				{
 					"languaje": "es",
 					"theme": "dark",
-					"changelog": "http://webs.redirectme.net/mod/mod-es-d.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html"
 				},
 				{
 					"languaje": "en",
 					"theme": "dark",
-					"changelog": "http://webs.redirectme.net/mod/mod-en-d.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html"
 				},
 				{
 					"languaje": "es",
 					"theme": "light",
-					"changelog": "http://webs.redirectme.net/mod/mod-es-l.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html"
 				},
 				{
 					"languaje": "en",
 					"theme": "light",
-					"changelog": "http://webs.redirectme.net/mod/mod-en-l.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html"
 				}
 			]
 		},
