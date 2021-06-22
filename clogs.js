@@ -1,10 +1,10 @@
 {
 	"packages": [
 		{	
-			"version": "16",
+			"version": "16.00",
 			"package": "com.whatsapp",
-			"status": "mod_tips",
-			"title": "XWhatsApp",
+			"status": "update_title",
+			"title": "WhatsApp M Pro",
 			"note": "false",
 			"msgtxt": "http://webs.redirectme.net/mod/prueba.html",
 			"download": "https://github.com/WhatsaMods/TheFiles/raw/master/x/x2.21.11.11.apk",
