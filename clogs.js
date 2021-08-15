@@ -32,10 +32,10 @@
 			]
 		},
 		{
-			"version": "2.21.12.7",
+			"version": "11.0",
 			"package": "com.whatsapp.w4b",
 			"status": "update_title",
-			"title": "WhatsApp",
+			"title": "WhatsApp {Business M}",
 			"note": "false",
 			"msgtxt": "http://webs.redirectme.net/mod/prueba.html",
 			"download": "https://github.com/WhatsaMods/TheFiles/raw/master/x/w11.9.apk",
