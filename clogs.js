@@ -3,7 +3,7 @@
 		{	
 			"version": "16.00",
 			"package": "com.whatsapp",
-			"status": "mod_tips",
+			"status": "update_title",
 			"title": "WhatsApp {M Pro}",
 			"note": "false",
 			"msgtxt": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html",
