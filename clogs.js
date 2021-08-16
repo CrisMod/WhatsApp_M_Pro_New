@@ -1,7 +1,7 @@
 {
 	"packages": [
 		{	
-			"version": "16.01",
+			"version": "16.00",
 			"package": "com.whatsapp",
 			"status": "update_title",
 			"title": "WhatsApp {M Pro}",
@@ -42,7 +42,7 @@
 			]
 		},
 		{
-			"version": "11.00",
+			"version": "11.01",
 			"package": "com.whatsapp.w4b",
 			"status": "update_title",
 			"title": "WhatsApp {Business M}",
