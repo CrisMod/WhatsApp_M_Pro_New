@@ -12,22 +12,32 @@
 				{
 					"languaje": "es",
 					"theme": "dark",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M%20Pro/dark/changelog-en.html"
 				},
 				{
 					"languaje": "en",
 					"theme": "dark",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M%20Pro/dark/changelog-en.html"
+				},
+				{
+					"languaje": "pt-br",
+					"theme": "dark",
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M%20Pro/dark/changelog-pt.html"
 				},
 				{
 					"languaje": "es",
 					"theme": "light",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M%20Pro/light/changelog-en.html"
+				},
+				{
+					"languaje": "pt-br",
+					"theme": "light",
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M%20Pro/light/changelog-pt.html"
 				},
 				{
 					"languaje": "en",
 					"theme": "light",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M%20Pro/light/changelog-en.html"
 				}
 			]
 		},
