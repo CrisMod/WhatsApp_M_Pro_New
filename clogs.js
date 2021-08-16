@@ -4,10 +4,10 @@
 			"version": "16.00",
 			"package": "com.whatsapp",
 			"status": "update_title",
-			"title": "WhatsApp M Pro",
+			"title": "WhatsApp {M Pro}",
 			"note": "false",
 			"msgtxt": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html",
-			"download": "https://github.com/WhatsaMods/TheFiles/raw/master/x/x2.21.11.11.apk",
+			"download": "http://fumacrom.com/1e3Mr",
 			"update": [
 				{
 					"languaje": "es",
@@ -51,9 +51,19 @@
 					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html"
 				},
 				{
+					"languaje": "pt-br",
+					"theme": "dark",
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-pt.html"
+				},
+				{
 					"languaje": "es",
 					"theme": "light",
 					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html"
+				},
+				{
+					"languaje": "pt-br",
+					"theme": "light",
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-pt.html"
 				},
 				{
 					"languaje": "en",
