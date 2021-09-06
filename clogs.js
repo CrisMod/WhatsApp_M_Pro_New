@@ -42,7 +42,7 @@
 			]
 		},
 		{
-			"version": "11.01",
+			"version": "11.00",
 			"package": "com.whatsapp.w4b",
 			"status": "update_title",
 			"title": "WhatsApp {Business M}",
