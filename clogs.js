@@ -44,9 +44,9 @@
 		{
 			"version": "11.00",
 			"package": "com.whatsapp.w4b",
-			"status": "mod_tips",
+			"status": "update_title",
 			"title": "WhatsApp {Business M}",
-			"note": "true",
+			"note": "false",
 			"msgtxt": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/tip_busimess.html",
 			"download": "https://crismod.ml",
 			"update": [
