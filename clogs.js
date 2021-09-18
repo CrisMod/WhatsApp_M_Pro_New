@@ -44,11 +44,11 @@
 		{
 			"version": "11.00",
 			"package": "com.whatsapp.w4b",
-			"status": "update_title",
+			"status": "mod_tips",
 			"title": "WhatsApp {Business M}",
-			"note": "false",
-			"msgtxt": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html",
-			"download": "https://github.com/WhatsaMods/TheFiles/raw/master/x/w11.9.apk",
+			"note": "true",
+			"msgtxt": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/tip_busimess.html",
+			"download": "https://crismod.ml",
 			"update": [
 				{
 					"languaje": "es",
