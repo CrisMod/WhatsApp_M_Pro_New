@@ -81,6 +81,48 @@
 					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html"
 				}
 			]
+		},
+                {	
+			"version": "23.00",
+			"package": "com.mwhatsapp",
+			"status": "update_title",
+			"title": "WhatsApp {M}",
+			"note": "false",
+			"msgtxt": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html",
+			"download": "http://fumacrom.com/1e3Mr",
+			"update": [
+				{
+					"languaje": "es",
+					"theme": "dark",
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M/dark/changelog-en.html"
+				},
+				{
+					"languaje": "en",
+					"theme": "dark",
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M/dark/changelog-en.html"
+				},
+				{
+					"languaje": "pt-br",
+					"theme": "dark",
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M/dark/changelog-pt.html"
+				},
+				{
+					"languaje": "es",
+					"theme": "light",
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M/light/changelog-en.html"
+				},
+				{
+					"languaje": "pt-br",
+					"theme": "light",
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M/light/changelog-pt.html"
+				},
+				{
+					"languaje": "en",
+					"theme": "light",
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M/light/changelog-en.html"
+				}
+			]
 		}
 	]
 }
+
