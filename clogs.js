@@ -94,7 +94,7 @@
 				{
 					"languaje": "es",
 					"theme": "dark",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M%20Pro/dark/changelog-en.html"
+					"changelog": "https://crismod.com/update/wamod/com.mwhatsapp/dark/clog.html"
 				},
 				{
 					"languaje": "en",
