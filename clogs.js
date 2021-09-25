@@ -86,7 +86,7 @@
 			"version": "23.01",
 			"package": "com.mwhatsapp",
 			"status": "update_title",
-			"title": "WhatsApp {M}",
+			"title": "WhatsApp {M} 23.0",
 			"note": "false",
 			"msgtxt": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html",
 			"download": "http://fumacrom.com/1e3Mr",
