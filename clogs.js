@@ -83,13 +83,13 @@
 			]
 		},
                 {	
-			"version": "23.00",
+			"version": "23.10",
 			"package": "com.mwhatsapp",
 			"status": "update_title",
-			"title": "WhatsApp {M} 23.0",
+			"title": "WhatsApp {M} 23.10",
 			"note": "false",
 			"msgtxt": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html",
-			"download": "http://fumacrom.com/1e3Mr",
+			"download": "https://www.mediafire.com/file/194u1st85gftlo9/WaM_23.10.apk/file",
 			"update": [
 				{
 					"languaje": "es",
