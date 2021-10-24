@@ -1,7 +1,7 @@
 {
 	"packages": [
 		{	
-			"version": "16.00",
+			"version": "17.00",
 			"package": "com.whatsapp",
 			"status": "update_title",
 			"title": "WhatsApp {M Pro}",
