@@ -12,22 +12,22 @@
 				{
 					"languaje": "es",
 					"theme": "dark",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M%20Pro/dark/changelog-en.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/dark.html"
 				},
 				{
 					"languaje": "en",
 					"theme": "dark",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M%20Pro/dark/changelog-en.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/dark.html"
 				},
 				{
 					"languaje": "es",
 					"theme": "light",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M%20Pro/light/changelog-en.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/light.html"
 				},
 				{
 					"languaje": "en",
 					"theme": "light",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M%20Pro/light/changelog-en.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/light.html"
 				}
 			]
 		}
