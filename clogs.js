@@ -1,13 +1,13 @@
 {
 	"packages": [
 		{	
-			"version": "17.10",
+			"version": "18.00",
 			"package": "com.whatsapp",
 			"status": "update_title",
-			"title": "WhatsApp {M Pro} 17.10",
+			"title": "WhatsApp {M Pro} 18.00",
 			"note": "false",
 			"msgtxt": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html",
-			"download": "http://fumacrom.com/2g9hu",
+			"download": "http://fumacrom.com/3CmoN",
 			"update": [
 				{
 					"languaje": "es",
